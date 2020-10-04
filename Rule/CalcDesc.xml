@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sch:Rule xmlns:sch="http://Baf.com/schemas" name="CalcDesc">
+    <sch:name>CalcDesc</sch:name>
+    <sch:objectTypeName>ScmOrder</sch:objectTypeName>
+    <sch:referenceName></sch:referenceName>
+    <sch:fieldName></sch:fieldName>
+    <sch:ruleType>Rule</sch:ruleType>
+    <sch:ruleCode></sch:ruleCode>
+    <sch:ruleLanguage>Groovy</sch:ruleLanguage>
+    <sch:ruleBody>data.get('DocNum') + data.get('Status')</sch:ruleBody>
+    <sch:seqNumber>2</sch:seqNumber>
+    <sch:description>数量必须大于0</sch:description>
+</sch:Rule>
