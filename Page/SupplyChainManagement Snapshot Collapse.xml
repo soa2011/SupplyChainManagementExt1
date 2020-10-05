@@ -28,14 +28,14 @@
     <sch:objectType isRef="true">SupplyChainManagement</sch:objectType>
     <sch:fields>
         <sch:BmfPageField>
-            <sch:name></sch:name>
-            <sch:seqNumber>0</sch:seqNumber>
+            <sch:name>Name</sch:name>
+            <sch:seqNumber>200</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
-            <sch:pageAreaName>Default</sch:pageAreaName>
-            <sch:fieldType>Section Header Begin</sch:fieldType>
+            <sch:pageAreaName>DefArea</sch:pageAreaName>
+            <sch:fieldType>Text</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>Default</sch:label>
+            <sch:label>Name</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
