@@ -7,8 +7,8 @@
     <sch:domainEntries>
         <sch:BmfDomainEntry>
             <sch:seqNumber>1</sch:seqNumber>
-            <sch:displayValue>Normal</sch:displayValue>
-            <sch:dataValue>Normal</sch:dataValue>
+            <sch:displayValue>SerialNumber</sch:displayValue>
+            <sch:dataValue>SerialNumber</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
@@ -19,8 +19,8 @@
         </sch:BmfDomainEntry>
         <sch:BmfDomainEntry>
             <sch:seqNumber>3</sch:seqNumber>
-            <sch:displayValue>SerialNumber</sch:displayValue>
-            <sch:dataValue>SerialNumber</sch:dataValue>
+            <sch:displayValue>Normal</sch:displayValue>
+            <sch:dataValue>Normal</sch:dataValue>
             <sch:keyValues>{}</sch:keyValues>
         </sch:BmfDomainEntry>
     </sch:domainEntries>
