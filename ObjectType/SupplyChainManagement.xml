@@ -3,7 +3,7 @@
     <sch:name>SupplyChainManagement</sch:name>
     <sch:tableType>System</sch:tableType>
     <sch:archeType>NORMAL</sch:archeType>
-    <sch:parentTypeName></sch:parentTypeName>
+    <sch:parentTypeName>NA</sch:parentTypeName>
     <sch:superTypeName></sch:superTypeName>
     <sch:accessMode></sch:accessMode>
     <sch:primaryField></sch:primaryField>
@@ -17,97 +17,69 @@
     <sch:bmfRelationships>
         <sch:BmfObjectRelationship>
             <sch:type>REF_TO_MANY</sch:type>
-            <sch:name></sch:name>
+            <sch:name>ScmOrder</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
-            <sch:relatedObjectType>SupplyChainManagement</sch:relatedObjectType>
+            <sch:relatedObjectType>ScmOrder</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
-            <sch:upperBound>1</sch:upperBound>
+            <sch:upperBound>-1</sch:upperBound>
             <sch:containment>false</sch:containment>
         </sch:BmfObjectRelationship>
         <sch:BmfObjectRelationship>
             <sch:type>REF_TO_MANY</sch:type>
-            <sch:name></sch:name>
+            <sch:name>ScmOrderSchema</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
-            <sch:relatedObjectType>SupplyChainManagement</sch:relatedObjectType>
+            <sch:relatedObjectType>ScmOrderSchema</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
-            <sch:upperBound>1</sch:upperBound>
+            <sch:upperBound>-1</sch:upperBound>
             <sch:containment>false</sch:containment>
         </sch:BmfObjectRelationship>
         <sch:BmfObjectRelationship>
             <sch:type>REF_TO_MANY</sch:type>
-            <sch:name></sch:name>
+            <sch:name>SCMAdminActivity</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
-            <sch:relatedObjectType>SupplyChainManagement</sch:relatedObjectType>
+            <sch:relatedObjectType>SCMAdminActivity</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
-            <sch:upperBound>1</sch:upperBound>
+            <sch:upperBound>-1</sch:upperBound>
             <sch:containment>false</sch:containment>
         </sch:BmfObjectRelationship>
         <sch:BmfObjectRelationship>
             <sch:type>REF_TO_MANY</sch:type>
-            <sch:name></sch:name>
+            <sch:name>ScmPackage</sch:name>
             <sch:displayName></sch:displayName>
             <sch:description></sch:description>
-            <sch:relatedObjectType>SupplyChainManagement</sch:relatedObjectType>
+            <sch:relatedObjectType>ScmPackage</sch:relatedObjectType>
             <sch:joinField></sch:joinField>
             <sch:lowerBound>0</sch:lowerBound>
-            <sch:upperBound>1</sch:upperBound>
-            <sch:containment>false</sch:containment>
-        </sch:BmfObjectRelationship>
-        <sch:BmfObjectRelationship>
-            <sch:type>REF_TO_MANY</sch:type>
-            <sch:name></sch:name>
-            <sch:displayName></sch:displayName>
-            <sch:description></sch:description>
-            <sch:relatedObjectType>SupplyChainManagement</sch:relatedObjectType>
-            <sch:joinField></sch:joinField>
-            <sch:lowerBound>0</sch:lowerBound>
-            <sch:upperBound>1</sch:upperBound>
-            <sch:containment>false</sch:containment>
-        </sch:BmfObjectRelationship>
-        <sch:BmfObjectRelationship>
-            <sch:type>REF_TO_MANY</sch:type>
-            <sch:name></sch:name>
-            <sch:displayName></sch:displayName>
-            <sch:description></sch:description>
-            <sch:relatedObjectType>SupplyChainManagement</sch:relatedObjectType>
-            <sch:joinField></sch:joinField>
-            <sch:lowerBound>0</sch:lowerBound>
-            <sch:upperBound>1</sch:upperBound>
-            <sch:containment>false</sch:containment>
-        </sch:BmfObjectRelationship>
-        <sch:BmfObjectRelationship>
-            <sch:type>REF_TO_MANY</sch:type>
-            <sch:name></sch:name>
-            <sch:displayName></sch:displayName>
-            <sch:description></sch:description>
-            <sch:relatedObjectType>SupplyChainManagement</sch:relatedObjectType>
-            <sch:joinField></sch:joinField>
-            <sch:lowerBound>0</sch:lowerBound>
-            <sch:upperBound>1</sch:upperBound>
-            <sch:containment>false</sch:containment>
-        </sch:BmfObjectRelationship>
-        <sch:BmfObjectRelationship>
-            <sch:type>REF_TO_MANY</sch:type>
-            <sch:name></sch:name>
-            <sch:displayName></sch:displayName>
-            <sch:description></sch:description>
-            <sch:relatedObjectType>SupplyChainManagement</sch:relatedObjectType>
-            <sch:joinField></sch:joinField>
-            <sch:lowerBound>0</sch:lowerBound>
-            <sch:upperBound>1</sch:upperBound>
+            <sch:upperBound>-1</sch:upperBound>
             <sch:containment>false</sch:containment>
         </sch:BmfObjectRelationship>
     </sch:bmfRelationships>
     <sch:bmfFields>
         <sch:BmfObjectField>
             <sch:name>Name</sch:name>
-            <sch:dataType>Text</sch:dataType>
+            <sch:dataType>Char</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length>32</sch:length>
+            <sch:scale></sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>Description</sch:name>
+            <sch:dataType>Char</sch:dataType>
             <sch:enumName></sch:enumName>
             <sch:length>256</sch:length>
             <sch:scale></sch:scale>
@@ -122,10 +94,58 @@
             <sch:changeColumns></sch:changeColumns>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
-            <sch:name>Description</sch:name>
-            <sch:dataType>Text</sch:dataType>
+            <sch:name>CreatedBy</sch:name>
+            <sch:dataType>OID</sch:dataType>
             <sch:enumName></sch:enumName>
-            <sch:length>256</sch:length>
+            <sch:length></sch:length>
+            <sch:scale></sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>CreatedOn</sch:name>
+            <sch:dataType>DateTime</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length></sch:length>
+            <sch:scale></sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>UpdatedBy</sch:name>
+            <sch:dataType>OID</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length></sch:length>
+            <sch:scale></sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>UpdatedOn</sch:name>
+            <sch:dataType>DateTime</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length></sch:length>
             <sch:scale></sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>

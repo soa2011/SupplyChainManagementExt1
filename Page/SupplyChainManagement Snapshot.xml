@@ -5,15 +5,15 @@
     <sch:pageType>Signpost</sch:pageType>
     <sch:pageCondition></sch:pageCondition>
     <sch:title></sch:title>
-    <sch:seqNumber>0</sch:seqNumber>
-    <sch:tableName></sch:tableName>
+    <sch:seqNumber>50</sch:seqNumber>
+    <sch:tableName>SupplyChainManagement</sch:tableName>
     <sch:quoteDisplay>false</sch:quoteDisplay>
     <sch:labelColWidth>0</sch:labelColWidth>
     <sch:valueColWidth>0</sch:valueColWidth>
     <sch:numberOfColumns>0</sch:numberOfColumns>
     <sch:defaultSort></sch:defaultSort>
     <sch:defaultDir></sch:defaultDir>
-    <sch:labelOrientation>Horizontal</sch:labelOrientation>
+    <sch:labelOrientation></sch:labelOrientation>
     <sch:relatedRule></sch:relatedRule>
     <sch:displayResource></sch:displayResource>
     <sch:modifyResource></sch:modifyResource>
@@ -25,16 +25,17 @@
     <sch:changeColumns></sch:changeColumns>
     <sch:clientSideController></sch:clientSideController>
     <sch:serverSideController></sch:serverSideController>
+    <sch:objectType isRef="true">SupplyChainManagement</sch:objectType>
     <sch:fields>
         <sch:BmfPageField>
-            <sch:name></sch:name>
-            <sch:seqNumber>0</sch:seqNumber>
+            <sch:name>Name</sch:name>
+            <sch:seqNumber>200</sch:seqNumber>
             <sch:tabIndex>0</sch:tabIndex>
             <sch:tabPage></sch:tabPage>
-            <sch:pageAreaName>Default</sch:pageAreaName>
-            <sch:fieldType>Section Header Begin</sch:fieldType>
+            <sch:pageAreaName></sch:pageAreaName>
+            <sch:fieldType>Text</sch:fieldType>
             <sch:refTargetType></sch:refTargetType>
-            <sch:label>Default</sch:label>
+            <sch:label>Name</sch:label>
             <sch:controllingParameters></sch:controllingParameters>
             <sch:domainName></sch:domainName>
             <sch:dynaDomain></sch:dynaDomain>
