@@ -7,7 +7,7 @@
     <sch:title></sch:title>
     <sch:seqNumber>0</sch:seqNumber>
     <sch:tableName>ScmPackage</sch:tableName>
-    <sch:quoteDisplay>false</sch:quoteDisplay>
+    <sch:display>false</sch:display>
     <sch:labelColWidth>0</sch:labelColWidth>
     <sch:valueColWidth>0</sch:valueColWidth>
     <sch:numberOfColumns>0</sch:numberOfColumns>
