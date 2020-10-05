@@ -12,14 +12,16 @@
     <sch:viewInfo></sch:viewInfo>
     <sch:hierarchyColumn></sch:hierarchyColumn>
     <sch:description></sch:description>
+    <sch:changeType></sch:changeType>
+    <sch:changeColumns></sch:changeColumns>
     <sch:bmfRelationships/>
     <sch:bmfFields>
         <sch:BmfObjectField>
             <sch:name>Type</sch:name>
-            <sch:dataType>Char</sch:dataType>
+            <sch:dataType>Text</sch:dataType>
             <sch:enumName></sch:enumName>
             <sch:length>256</sch:length>
-            <sch:scale></sch:scale>
+            <sch:scale>0</sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
             <sch:encrypted>false</sch:encrypted>
@@ -27,13 +29,15 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Reason</sch:name>
-            <sch:dataType>Char</sch:dataType>
+            <sch:dataType>Text</sch:dataType>
             <sch:enumName></sch:enumName>
             <sch:length>256</sch:length>
-            <sch:scale></sch:scale>
+            <sch:scale>0</sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
             <sch:encrypted>false</sch:encrypted>
@@ -41,13 +45,15 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Description</sch:name>
-            <sch:dataType>Char</sch:dataType>
+            <sch:dataType>Text</sch:dataType>
             <sch:enumName></sch:enumName>
             <sch:length>256</sch:length>
-            <sch:scale></sch:scale>
+            <sch:scale>0</sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
             <sch:encrypted>false</sch:encrypted>
@@ -55,13 +61,15 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>TransNo</sch:name>
-            <sch:dataType>Char</sch:dataType>
+            <sch:dataType>Text</sch:dataType>
             <sch:enumName></sch:enumName>
             <sch:length>256</sch:length>
-            <sch:scale></sch:scale>
+            <sch:scale>0</sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
             <sch:encrypted>false</sch:encrypted>
@@ -69,13 +77,15 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>JobDate</sch:name>
             <sch:dataType>Date</sch:dataType>
             <sch:enumName></sch:enumName>
-            <sch:length></sch:length>
-            <sch:scale></sch:scale>
+            <sch:length>0</sch:length>
+            <sch:scale>0</sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
             <sch:encrypted>false</sch:encrypted>
@@ -83,6 +93,8 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>TotalAmount</sch:name>
@@ -97,13 +109,15 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>PaymentStatus</sch:name>
-            <sch:dataType>Char</sch:dataType>
+            <sch:dataType>Text</sch:dataType>
             <sch:enumName></sch:enumName>
             <sch:length>256</sch:length>
-            <sch:scale></sch:scale>
+            <sch:scale>0</sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
             <sch:encrypted>false</sch:encrypted>
@@ -111,13 +125,15 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>CreatedBy</sch:name>
             <sch:dataType>OID</sch:dataType>
             <sch:enumName></sch:enumName>
-            <sch:length></sch:length>
-            <sch:scale></sch:scale>
+            <sch:length>0</sch:length>
+            <sch:scale>0</sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
             <sch:encrypted>false</sch:encrypted>
@@ -125,13 +141,15 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>CreatedOn</sch:name>
             <sch:dataType>DateTime</sch:dataType>
             <sch:enumName></sch:enumName>
-            <sch:length></sch:length>
-            <sch:scale></sch:scale>
+            <sch:length>0</sch:length>
+            <sch:scale>0</sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
             <sch:encrypted>false</sch:encrypted>
@@ -139,13 +157,15 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>UpdatedBy</sch:name>
             <sch:dataType>OID</sch:dataType>
             <sch:enumName></sch:enumName>
-            <sch:length></sch:length>
-            <sch:scale></sch:scale>
+            <sch:length>0</sch:length>
+            <sch:scale>0</sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
             <sch:encrypted>false</sch:encrypted>
@@ -153,13 +173,15 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>UpdatedOn</sch:name>
             <sch:dataType>DateTime</sch:dataType>
             <sch:enumName></sch:enumName>
-            <sch:length></sch:length>
-            <sch:scale></sch:scale>
+            <sch:length>0</sch:length>
+            <sch:scale>0</sch:scale>
             <sch:autoIncrement>false</sch:autoIncrement>
             <sch:calculated>false</sch:calculated>
             <sch:encrypted>false</sch:encrypted>
@@ -167,6 +189,184 @@
             <sch:seqPattern></sch:seqPattern>
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>Type</sch:name>
+            <sch:dataType>Text</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length>256</sch:length>
+            <sch:scale>0</sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>Reason</sch:name>
+            <sch:dataType>Text</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length>256</sch:length>
+            <sch:scale>0</sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>Description</sch:name>
+            <sch:dataType>Text</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length>256</sch:length>
+            <sch:scale>0</sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>TransNo</sch:name>
+            <sch:dataType>Text</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length>256</sch:length>
+            <sch:scale>0</sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>JobDate</sch:name>
+            <sch:dataType>Date</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length>0</sch:length>
+            <sch:scale>0</sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>TotalAmount</sch:name>
+            <sch:dataType>Decimal</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length>16</sch:length>
+            <sch:scale>2</sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>PaymentStatus</sch:name>
+            <sch:dataType>Text</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length>256</sch:length>
+            <sch:scale>0</sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>CreatedBy</sch:name>
+            <sch:dataType>OID</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length>0</sch:length>
+            <sch:scale>0</sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>CreatedOn</sch:name>
+            <sch:dataType>DateTime</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length>0</sch:length>
+            <sch:scale>0</sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>UpdatedBy</sch:name>
+            <sch:dataType>OID</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length>0</sch:length>
+            <sch:scale>0</sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
+        </sch:BmfObjectField>
+        <sch:BmfObjectField>
+            <sch:name>UpdatedOn</sch:name>
+            <sch:dataType>DateTime</sch:dataType>
+            <sch:enumName></sch:enumName>
+            <sch:length>0</sch:length>
+            <sch:scale>0</sch:scale>
+            <sch:autoIncrement>false</sch:autoIncrement>
+            <sch:calculated>false</sch:calculated>
+            <sch:encrypted>false</sch:encrypted>
+            <sch:seqStart>0</sch:seqStart>
+            <sch:seqPattern></sch:seqPattern>
+            <sch:calcExpr></sch:calcExpr>
+            <sch:description></sch:description>
+            <sch:changeType></sch:changeType>
+            <sch:changeColumns></sch:changeColumns>
         </sch:BmfObjectField>
     </sch:bmfFields>
     <sch:bmfRules/>
