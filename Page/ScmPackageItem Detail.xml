@@ -22,7 +22,7 @@
     <sch:path></sch:path>
     <sch:description></sch:description>
     <sch:changeType></sch:changeType>
-    <sch:changeColumns></sch:changeColumns>
+    <sch:changeFields></sch:changeFields>
     <sch:clientSideController></sch:clientSideController>
     <sch:serverSideController></sch:serverSideController>
     <sch:objectType isRef="true">ScmPackageItem</sch:objectType>
@@ -76,7 +76,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
             <sch:bmfDomain isRef="true">ScmPackageItemType</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
@@ -128,7 +128,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>ProductCategoryId</sch:name>
@@ -179,7 +179,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>ScmPackageId</sch:name>
@@ -230,7 +230,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Quantity</sch:name>
@@ -281,7 +281,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>PickMode</sch:name>
@@ -332,7 +332,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
             <sch:bmfDomain isRef="true">PickMode</sch:bmfDomain>
         </sch:BmfPageField>
         <sch:BmfPageField>
@@ -384,7 +384,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Discount</sch:name>
@@ -435,7 +435,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Amount</sch:name>
@@ -486,7 +486,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>MinOccurs</sch:name>
@@ -537,7 +537,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>MaxOccurs</sch:name>
@@ -588,7 +588,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
     </sch:fields>
     <sch:variables/>

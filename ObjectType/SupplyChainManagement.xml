@@ -13,7 +13,7 @@
     <sch:hierarchyColumn></sch:hierarchyColumn>
     <sch:description></sch:description>
     <sch:changeType></sch:changeType>
-    <sch:changeColumns></sch:changeColumns>
+    <sch:changeFields></sch:changeFields>
     <sch:bmfRelationships>
         <sch:BmfObjectRelationship>
             <sch:type>REF_TO_MANY</sch:type>
@@ -207,7 +207,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Description</sch:name>
@@ -223,7 +223,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
     </sch:bmfFields>
     <sch:bmfRules/>

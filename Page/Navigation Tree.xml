@@ -22,7 +22,7 @@
     <sch:path></sch:path>
     <sch:description></sch:description>
     <sch:changeType></sch:changeType>
-    <sch:changeColumns></sch:changeColumns>
+    <sch:changeFields></sch:changeFields>
     <sch:clientSideController></sch:clientSideController>
     <sch:serverSideController></sch:serverSideController>
     <sch:fields/>

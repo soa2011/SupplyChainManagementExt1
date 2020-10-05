@@ -13,7 +13,7 @@
     <sch:hierarchyColumn></sch:hierarchyColumn>
     <sch:description></sch:description>
     <sch:changeType></sch:changeType>
-    <sch:changeColumns></sch:changeColumns>
+    <sch:changeFields></sch:changeFields>
     <sch:bmfRelationships>
         <sch:BmfObjectRelationship>
             <sch:type>REF_TO_ONE</sch:type>
@@ -251,7 +251,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Status</sch:name>
@@ -267,7 +267,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Description</sch:name>
@@ -283,7 +283,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Discount</sch:name>
@@ -299,7 +299,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Amount</sch:name>
@@ -315,7 +315,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>ErrorMessage</sch:name>
@@ -331,7 +331,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Duration</sch:name>
@@ -347,7 +347,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>CreatedBy</sch:name>
@@ -363,7 +363,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>CreatedOn</sch:name>
@@ -379,7 +379,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>UpdatedBy</sch:name>
@@ -395,7 +395,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>UpdatedOn</sch:name>
@@ -411,7 +411,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>DocNum</sch:name>
@@ -427,7 +427,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Status</sch:name>
@@ -443,7 +443,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Description</sch:name>
@@ -459,7 +459,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Discount</sch:name>
@@ -475,7 +475,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Amount</sch:name>
@@ -491,7 +491,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>ErrorMessage</sch:name>
@@ -507,7 +507,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Duration</sch:name>
@@ -523,7 +523,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>CreatedBy</sch:name>
@@ -539,7 +539,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>CreatedOn</sch:name>
@@ -555,7 +555,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>UpdatedBy</sch:name>
@@ -571,7 +571,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>UpdatedOn</sch:name>
@@ -587,7 +587,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>DocNum</sch:name>
@@ -603,7 +603,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Status</sch:name>
@@ -619,7 +619,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Description</sch:name>
@@ -635,7 +635,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Discount</sch:name>
@@ -651,7 +651,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Amount</sch:name>
@@ -667,7 +667,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>ErrorMessage</sch:name>
@@ -683,7 +683,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Duration</sch:name>
@@ -699,7 +699,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>CreatedBy</sch:name>
@@ -715,7 +715,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>CreatedOn</sch:name>
@@ -731,7 +731,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>UpdatedBy</sch:name>
@@ -747,7 +747,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>UpdatedOn</sch:name>
@@ -763,7 +763,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>DocNum</sch:name>
@@ -779,7 +779,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Status</sch:name>
@@ -795,7 +795,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Description</sch:name>
@@ -811,7 +811,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Discount</sch:name>
@@ -827,7 +827,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Amount</sch:name>
@@ -843,7 +843,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>ErrorMessage</sch:name>
@@ -859,7 +859,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>Duration</sch:name>
@@ -875,7 +875,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>CreatedBy</sch:name>
@@ -891,7 +891,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>CreatedOn</sch:name>
@@ -907,7 +907,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>UpdatedBy</sch:name>
@@ -923,7 +923,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
         <sch:BmfObjectField>
             <sch:name>UpdatedOn</sch:name>
@@ -939,7 +939,7 @@
             <sch:calcExpr></sch:calcExpr>
             <sch:description></sch:description>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfObjectField>
     </sch:bmfFields>
     <sch:bmfRules>

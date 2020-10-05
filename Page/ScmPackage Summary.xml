@@ -22,7 +22,7 @@
     <sch:path></sch:path>
     <sch:description></sch:description>
     <sch:changeType></sch:changeType>
-    <sch:changeColumns></sch:changeColumns>
+    <sch:changeFields></sch:changeFields>
     <sch:clientSideController></sch:clientSideController>
     <sch:serverSideController></sch:serverSideController>
     <sch:objectType isRef="true">ScmPackage</sch:objectType>
@@ -76,7 +76,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Code</sch:name>
@@ -127,7 +127,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>ScmWarehouseId</sch:name>
@@ -178,7 +178,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>PurchaserId</sch:name>
@@ -229,7 +229,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Type</sch:name>
@@ -280,7 +280,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Discount</sch:name>
@@ -331,7 +331,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Amount</sch:name>
@@ -382,7 +382,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>Description</sch:name>
@@ -433,7 +433,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
         <sch:BmfPageField>
             <sch:name>PickRules</sch:name>
@@ -484,7 +484,7 @@
             <sch:filterCriteria></sch:filterCriteria>
             <sch:eventHandler></sch:eventHandler>
             <sch:changeType></sch:changeType>
-            <sch:changeColumns></sch:changeColumns>
+            <sch:changeFields></sch:changeFields>
         </sch:BmfPageField>
     </sch:fields>
     <sch:variables/>
